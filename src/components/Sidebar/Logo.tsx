@@ -159,7 +159,7 @@ function Logo() {
           </clipPath>
         </defs>
       </svg>
-      <span>UI</span>
+      <span>Torres UI</span>
     </strong>
   )
 }
